@@ -1,0 +1,9 @@
+[project]
+name = "anechoic"
+version = "0.1.0"
+description = "A Spotify app for various functions"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "spotipy>=2.25.2",
+]
